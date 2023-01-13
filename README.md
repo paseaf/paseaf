@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ziyang
 - 👀 I’m interested in web development, computer networking, Linux, security, and music! (I play the guitar and blues harmonica)
 - 🌱 I’m currently learning Golang and MIT 6.824 Distributed Systems
-- 💞️ I’m looking to collaborate on any projects, especially relevant to helping musicians.
+- 💞️ I’m looking to collaborate on any projects helping to make the world a better place
 - 📫 You can reach me at ziyang.li@owasp.org
 
 <!---
